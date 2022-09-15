@@ -7,7 +7,7 @@ import java.lang.*;
 public class Category extends Vehicle implements NewInterface {
 
     //String category;
-    int categoryid;
+    //int categoryid;
     final int finalfield = 1;
     int x, y;
 
